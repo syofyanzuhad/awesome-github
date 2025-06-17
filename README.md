@@ -1,1 +1,44 @@
-# awesome-github
+# Awesome GitHub
+
+## Numerical username
+- [Michael Balaban - since 2010](https://github.com/1)
+- [2 (not available)](https://github.com/2)
+- [3 (org)](https://github.com/3)
+- [Bene - since 2010](https://github.com/4)
+- [Yuriy Semchyshyn - since 2014](https://github.com/5)
+
+## Alphabetical username
+- [Anton - since 2012](https://github.com/a)
+- [Benjamin Black - since 2008](https://github.com/b)
+- [C (github support)](https://github.com/c)
+- [Jesse Zhang - since 2010](https://github.com/d)
+- [E - since 2013](https://github.com/e)
+- [Fatih Kadir Akın - since 2010](https://github.com/f)
+- [Grizzly (org)](https://github.com/g)
+- [Samuel Hoffstaetter - since 2009](https://github.com/h)
+- [I - since 2009](https://github.com/i)
+- [Jordan Stout - since 2009](https://github.com/j)
+- [kbambridge - since 2012](https://github.com/k)
+- [L - since 2009](https://github.com/l)
+- [Matt Mullenweg - since 2003](https://github.com/m)
+- [Nick McCann - since 2009](https://github.com/n)
+- [Osman - since 2010](https://github.com/o)
+- [Oleg Pudeyev - since 2009](https://github.com/p)
+- [Corey Bertram - since 2009](https://github.com/q)
+- [Raffi Krikorian - since 2009](https://github.com/r)
+- [S (private)](https://github.com/s)
+- [Taku - since 2009](https://github.com/t)
+- [U RIP 2011-2014 (org)](https://github.com/u)
+- [Vaibhav Verma - since 2011](https://github.com/v)
+- [W (not available)](https://github.com/w)
+- [Devon Peticolas - since 2011](https://github.com/x)
+- [Y - since 2009](https://github.com/y)
+- [Tyler "-z-" Mulligan - since 2009](https://github.com/z)
+
+## First Github ID
+1. [Tom Preston-Werner - since 2007](https://api.github.com/user/1)
+2. [Chris Wanstrath - since 2007](https://api.github.com/user/1)
+3. [PJ Hyett - since 2008](https://api.github.com/user/3)
+4. [Yehuda Katz - since 2008](https://api.github.com/user/4)
+5. [Ezra Zygmuntowicz - since 2008](https://api.github.com/user/5)
+6. [more](https://api.github.com/users)
